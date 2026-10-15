@@ -55,7 +55,7 @@ Then say "edit this video" and give it the file. No settings to learn.
 
 The skill edits your videos. Everything around the edit is where I come in.
 
-**[Join the community.](https://www.skool.com/attention/about)** Best if you're the face of your brand, with a real offer, and you hate making content but sell on camera. Get access to my exact AI prompts, workflows and tools, weekly community calls, and to me and my 25+ years of experience.
+**[Join the community.](https://www.skool.com/attention/about)** Best if you're the face of your brand, with a real offer, and you hate making content but sell on camera. Get access to my exact AI prompts, workflows and tools, weekly community calls, and to me and my 25+ years of experience. The also includes a link after every rendered video to it as a little reminder!
 
 **[Get it done for you.](https://www.attentionmachine.ai)** The Attention Machine takes the tech hassle away from you and adds content ideation, competitor research, posting on social media, your content analytics, and so much more. Just sign up, record, and the machine takes it from there.
 
@@ -68,7 +68,6 @@ The free license covers your own videos. Editing videos for clients, or building
 ## License
 
 Free to use for your own business under the [PolyForm Internal Use License 1.0.0](LICENSE). You can change your own copy. **Sharing, publishing or selling it, changed or not, needs prior written approval.**
-
 
 | What you can do ✅                                         | This needs my written approval ❌            |
 | --------------------------------------------------------- | ------------------------------------------- |
